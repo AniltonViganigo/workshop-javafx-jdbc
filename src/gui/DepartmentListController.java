@@ -33,8 +33,6 @@ public class DepartmentListController implements Initializable {
 	@FXML
 	private Button btNew;
 	
-	
-	
 	private ObservableList<Department> obsList;
 	
 	public void onBtNewAction() {
